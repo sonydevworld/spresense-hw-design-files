@@ -5,5 +5,7 @@ Here you will find information about Spresense HW that you need if you would lik
 | CXD5602PWBEXT1     | Spresense extension board    |
 | CXD5602PWBMAIN1    | Spresense main board         |
 
+The datasheets for the chipset is available from [Sony Semiconductor Solutions Corporation Website](https://www.sony-semicon.co.jp/products_en/spresense/) 
+
 ## License
 These files are licensed under a [Creative Commons Attribution Share-Alike license](LICENSE.txt).
